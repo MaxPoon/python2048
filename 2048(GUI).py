@@ -163,8 +163,8 @@ class GameField(FloatLayout):
             return False
 
 
-class app(App):
+class app_2048(App):
     def build(self):
         return GameField()
 if __name__=="__main__":
-     app().run()
+     app_2048().run()
