@@ -3,8 +3,12 @@
 
 GUI:
 
+`python 2048\(GUI\).py`
+
 ![alt tag](https://github.com/MaxPoon/python2048/blob/master/GUI.png)
 
 Terminal:
+
+`python 2048.py`
 
 ![alt tag](https://github.com/MaxPoon/python2048/blob/master/terminal.png)
